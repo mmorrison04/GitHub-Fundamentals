@@ -24,7 +24,7 @@ This document contains the following details:
 ### Description of the Topology
 The main purpose of this network is to expose a load-balanced and monitored instance of DVWA, the D*mn Vulnerable Web Application.
 
-Load balancing ensures that the application will be highly _____, in addition to restricting _____ to the network.
+Load balancing ensures that the application will be highly responsive, in addition to restricting _____ to the network.
 - Load balancers protect against potential denial-of-service attacks by shifting the attack traffic. The advantage of a jumpbox is that it is a secure and controlled environment to access other VM’s within your network remotely. 
 
 Integrating an ELK server allows users to easily monitor the vulnerable VMs for changes to the _____ and system _____.
